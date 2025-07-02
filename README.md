@@ -36,15 +36,13 @@ A simple and interactive restaurant billing system developed using **Python** an
 | Date/Time      | `time`      |
 
 
-## 📂 How to Run
-
-1. Make sure Python 3 is installed.
-2. Save the code in a file, for example: `restaurant_billing.py`
-3. Run it using:
-
-```bash
-python restaurant_billing.py
 
 
-![image](https://github.com/user-attachments/assets/64f7a249-cf5c-48b5-8d77-0dac88e564ae)
+#THE OUTPUT IS:
+![image](https://github.com/user-attachments/assets/d402d607-c5cb-4988-a119-06a68c5a12b6)
+
+
+
+
+
 
